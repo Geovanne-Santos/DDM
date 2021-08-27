@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+	<contribuinte>
+		<cpf>000.000.000-00</cpf>
+		<rg>00.000.000-A</rg>
+		<nome>Geovanne Meloni</nome>
+		<data_nasc>19/01/2005</data_nasc>
+		<endereco>
+			<lograudo>Rua Y</lograudo>
+			<numero>970</numero>
+			<bairro>Jardim Camila</bairro>
+			<cep>09000-000</cep>
+			<cidade>Mauá</cidade>
+			<estado>São Paulo</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 98244-3833</telefone>
+			<celular>(11) 98244-3833</celular>
+			<email>geovamelo4431@gmail.com</email>
+		</contato>	
+			<renda>R$ 00,00</renda>
+			<foto>https://robohash.org/geovanne</foto>
+		<conta>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuinte>
+
+	<receita>
+	<contribuinte>
+		<cpf>111.111.111-11</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>Paulo Paulos</nome>
+		<data_nasc>30/07/2000</data_nasc>
+		<endereco>
+			<lograudo>Rua P</lograudo>
+			<numero>970</numero>
+			<bairro>Jardim Fruta</bairro>
+			<cep>09000-000</cep>
+			<cidade>Mauá</cidade>
+			<estado>São Paulo</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 98244-3833</telefone>
+			<celular>(11) 98244-3833</celular>
+			<email>geovamelo4431@gmail.com</email>
+		</contato>	
+			<renda>R$ 2.500,10</renda>
+			<foto>https://robohash.org/fotodorg</foto>
+		<conta>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuinte>
+	<receita>
+
+	<contribuinte>
+		<cpf>111.111.111-11</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>João Victor Pereira</nome>
+		<data_nasc>19/01/2005</data_nasc>
+		<endereco>
+			<lograudo>Rua B</lograudo>
+			<numero>120</numero>
+			<bairro>Jardim Freitas</bairro>
+			<cep>00000-000</cep>
+			<cidade>Mauá</cidade>
+			<estado>São Paulo</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 82395-3323</telefone>
+			<celular>(11) 82395-3323</celular>
+			<email>joao2@gmail.com</email>
+		</contato>	
+			<renda>R$ 3.000,00</renda>
+			<foto>https://robohash.org/valter</foto>
+		<conta>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuinte>
+
+	<receita>
+	<contribuinte>
+		<cpf>554.824.144-04</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>Micael Melo</nome>
+		<data_nasc>01/04/1970</data_nasc>
+		<endereco>
+			<lograudo>Rua A</lograudo>
+			<numero>970</numero>
+			<bairro>Jardim Lua cheia</bairro>
+			<cep>09450-120</cep>
+			<cidade>Mauá</cidade>
+			<estado>São Paulo</estado>
+		</endereco>
+		<contato>
+			<telefone>(11) 18244-2412</telefone>
+			<celular>(11) 18244-2412</celular>
+			<email>mikas2234@gmail.com</email>
+		</contato>	
+			<renda>R$ 1.000,00</renda>
+			<foto>https://robohash.org/nickossosfrageis</foto>
+		<conta>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuinte>
